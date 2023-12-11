@@ -1,5 +1,5 @@
 {
   "Catena-X": "🚀❤️💃🕺",
-  "Author": "Dr. Martin Enders",
+  "Author": {"Nickname": "Maddin", "Formal Name": "Dr. Martin Enders"},
   "Data": ["Hello", {"World": "!"}]
 }
